@@ -1,1 +1,1 @@
-# Dijkstra
+# Graph Alogrithms
